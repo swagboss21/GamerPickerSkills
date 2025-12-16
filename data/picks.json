@@ -1,0 +1,81 @@
+{
+  "created_at": "2025-12-16T20:00:00Z",
+  "picks": [
+    {
+      "game_id": "nba-2025-12-16-sas-nyk",
+      "sport": "NBA",
+      "game": "Spurs vs Knicks",
+      "pick": "Knicks -2.5",
+      "odds": -115,
+      "reasoning": "Knicks 16-6 ATS as favorites (best in NBA). Wemby on minutes restriction after 12-game absence. Brunson healthy and rolling with 40-point semifinal.",
+      "confidence": "medium",
+      "created_at": "2025-12-16T20:00:00Z",
+      "updated_at": "2025-12-16T20:00:00Z"
+    },
+    {
+      "game_id": "ncaab-2025-12-16-lip-duke",
+      "sport": "NCAAB",
+      "game": "Lipscomb vs Duke",
+      "pick": "NO PICK",
+      "reasoning": "33.5-point spread too large. Big spreads rarely cover - garbage time backdoor covers common.",
+      "created_at": "2025-12-16T20:00:00Z"
+    },
+    {
+      "game_id": "ncaab-2025-12-16-dep-stj",
+      "sport": "NCAAB",
+      "game": "DePaul vs St. John's",
+      "pick": "Under 150",
+      "odds": -110,
+      "reasoning": "Both teams 6-0 to the under in last 6 games combined. St. John's has offensive droughts, DePaul defending well. Clear trend alignment.",
+      "confidence": "high",
+      "created_at": "2025-12-16T20:00:00Z",
+      "updated_at": "2025-12-16T20:00:00Z"
+    },
+    {
+      "game_id": "ncaab-2025-12-16-kc-okla",
+      "sport": "NCAAB",
+      "game": "Kansas City vs Oklahoma",
+      "pick": "NO PICK",
+      "reasoning": "29.5-point spread too large. No edge on massive spreads.",
+      "created_at": "2025-12-16T20:00:00Z"
+    },
+    {
+      "game_id": "ncaab-2025-12-16-tenn-lou",
+      "sport": "NCAAB",
+      "game": "Tennessee vs Louisville",
+      "pick": "Under 157.5",
+      "odds": -110,
+      "reasoning": "Tennessee's slow pace and elite defensive structure limits scoring. Grind-it-out game between two ranked teams.",
+      "confidence": "medium",
+      "created_at": "2025-12-16T20:00:00Z",
+      "updated_at": "2025-12-16T20:00:00Z"
+    },
+    {
+      "game_id": "ncaab-2025-12-16-fsu-day",
+      "sport": "NCAAB",
+      "game": "Florida State vs Dayton",
+      "pick": "Dayton -6.5",
+      "odds": -110,
+      "reasoning": "FSU 0-3 on road, on 4-game losing skid. Dayton 6-0 at home with 29-game non-con home win streak. Elite turnover-forcing defense vs careless FSU.",
+      "confidence": "medium",
+      "created_at": "2025-12-16T20:00:00Z",
+      "updated_at": "2025-12-16T20:00:00Z"
+    },
+    {
+      "game_id": "ncaab-2025-12-16-acu-ariz",
+      "sport": "NCAAB",
+      "game": "Abilene Christian vs Arizona",
+      "pick": "NO PICK",
+      "reasoning": "32.5-point spread too large. Even dominant teams coast in garbage time.",
+      "created_at": "2025-12-16T20:00:00Z"
+    },
+    {
+      "game_id": "ncaab-2025-12-16-pac-byu",
+      "sport": "NCAAB",
+      "game": "Pacific vs BYU",
+      "pick": "NO PICK",
+      "reasoning": "22.5-point spread at edge of danger zone. Not enough edge either direction.",
+      "created_at": "2025-12-16T20:00:00Z"
+    }
+  ]
+}

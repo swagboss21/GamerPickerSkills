@@ -1,0 +1,20 @@
+{
+  "sports": {
+    "NBA": {
+      "enabled": true,
+      "filter": "all"
+    },
+    "NCAAB": {
+      "enabled": true,
+      "filter": "power_conferences",
+      "power_conferences": ["ACC", "Big Ten", "SEC", "Big 12", "Big East", "Pac-12"]
+    }
+  },
+  "paths": {
+    "data": "data",
+    "games": "data/games.json",
+    "picks": "data/picks.json",
+    "history": "data/history.json"
+  },
+  "confidence_levels": ["low", "medium", "high"]
+}
